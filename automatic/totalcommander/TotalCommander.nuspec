@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
-    <id>{{PackageName}}</id>
+    <id>totalcommander</id>
     <title>Total Commander</title>
-    <version>{{PackageVersion}}</version>
+    <version>8.52.01.20160421</version>
     <authors>Christian Ghisler</authors>
     <owners>dtgm,Anthony Mastrean</owners>
     <summary>File manager and explorer replacement</summary>
@@ -19,16 +19,12 @@ Total Commander is a file manager replacement for Windows. Features: Drag/Drop f
 
 Total Commander is a Shareware program. This means that you can test it for a period of 30 days. After testing the program, you must either [order the full version](http://www.ghisler.com/order.htm), or delete the program from your harddisk.
     </description>
-    <packageSourceUrl>https://github.com/dtgm/chocolatey-packages/tree/master/automatic/_output/{{PackageName}}/{{PackageVersion}}</packageSourceUrl>
     <projectUrl>http://www.ghisler.com</projectUrl>
-    <bugTrackerUrl>http://www.ghisler.ch/wiki/index.php/Known_bugs_and_workarounds</bugTrackerUrl>
-    <docsUrl>http://www.ghisler.ch/wiki/index.php</docsUrl>
-    <mailingListUrl>http://www.ghisler.ch/board/index.php</mailingListUrl>
     <tags>file manager shareware nagscreen</tags>
     <copyright>© 1995 Christian Ghisler</copyright>
     <licenseUrl>http://www.ghisler.com/order.htm</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/92907451d61ad48c9e7ed7ab1df00f1b72214f7e/icons/{{PackageName}}.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/92907451d61ad48c9e7ed7ab1df00f1b72214f7e/icons/totalcommander.png</iconUrl>
     <releaseNotes>
 ### Program
 * [News](http://www.ghisler.com/mailing.htm)

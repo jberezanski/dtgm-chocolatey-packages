@@ -1,6 +1,6 @@
-﻿$packageName = '{{PackageName}}'
-$url = '{{DownloadUrl}}'
-$checksum = '{{Checksum}}'
+﻿$packageName = 'totalcommander'
+$url = 'http://totalcmd2.s3.amazonaws.com/tcmd852ax32_64.exe'
+$checksum = '891b040acbe23ca5f77b0a5c44e7932fa837244b'
 $url64 = $url
 $checksum64 = $checksum
 $installerType = 'exe'
